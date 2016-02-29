@@ -154,7 +154,7 @@
            "dates": "2016/01",
            "url": "https://gowaa13.github.io/udacity-game/",
            "description": "From the udacity-project.This is a game , only computer browser version",
-           "images": ["udacity-game.png","Coding0_o.jpg" ]
+           "images": ["udacity-game.png","coding0_o.jpg" ]
        },{
            "title": "Responsive Blog",
            "dates": "2016/02",
