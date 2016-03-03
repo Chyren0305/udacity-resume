@@ -158,7 +158,7 @@
        },{
            "title": "Responsive Blog",
            "dates": "2016/02",
-           "url": "https://gowaa13.github.io/rwd/",
+           "url": "https://gowaa13.github.io/udacity-rwd/",
            "description": "From the udacity-project.This is a my own Responsive Blog.",
            "images": ["rwd.png","sample.png" ]
        }]
