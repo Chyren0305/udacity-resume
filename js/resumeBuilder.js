@@ -4,12 +4,12 @@
        "role": "front-end developer",
        "contacts": {
            "mobile": "09XX-666-666",
-           "email": "gowaa13@gmail.com",
-           "googleplus": "gowaa13",
-           "github": "gowaa13",
-           "blog": "gowaa13",
+           "email": "chyren666@gmail.com",
+           "googleplus": "chyren666",
+           "github": "chyren666",
+           "blog": "chyren666",
            "location": "Taiwan",
-           "url":{"GitHub":"https://www.github.com/gowaa13","Blog":"http://gowaa13.blogspot.tw/"}
+           "url":{"GitHub":"https://www.github.com/chyren666","Blog":"http://chyren666.blogspot.tw/"}
        },
        "Msg": "welcome to this website! have fun! :)!",
        "intro":"This is a sample and the Information isn't all real!",
@@ -146,19 +146,19 @@
        }, {
            "title": "Project Sample from udacity",
            "dates": "2016/01",
-           "url": "https://gowaa13.github.io/portfolio/",
+           "url": "https://chyren666.github.io/portfolio/",
            "description": "From the udacity-project.This is a portfolio demo. :D",
            "images": ["Formosa_Families_Logo_New_2.png", "portfolio.png"]
        }, {
            "title": "Udacity Frogger Game",
            "dates": "2016/01",
-           "url": "https://gowaa13.github.io/udacity-game/",
+           "url": "https://chyren666.github.io/udacity-game/",
            "description": "From the udacity-project.This is a game , only computer browser version",
            "images": ["udacity-game.png","coding0_o.jpg" ]
        },{
            "title": "Responsive Blog",
            "dates": "2016/02",
-           "url": "https://gowaa13.github.io/udacity-rwd/",
+           "url": "https://chyren666.github.io/udacity-rwd/",
            "description": "From the udacity-project.This is a my own Responsive Blog.",
            "images": ["rwd.png","sample.png" ]
        }]
