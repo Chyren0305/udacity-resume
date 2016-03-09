@@ -4,8 +4,8 @@
        "role": "front-end developer",
        "contacts": {
            "mobile": "09XX-666-666",
-           "email": "chyren666@gmail.com",
-           "googleplus": "chyren666",
+           "email": "chyren0305@gmail.com",
+           "googleplus": "chyren0305",
            "github": "chyren666",
            "blog": "chyren666",
            "location": "Taiwan",
