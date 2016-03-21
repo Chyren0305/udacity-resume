@@ -42,6 +42,11 @@
            "url": "https://www.cycu.edu.tw/"
        }],
        "onlineCourses": [{
+           "title": "JavaScript Promises",
+           "school": "Udacity",
+           "dates": "2016/03",
+           "url": "https://www.udacity.com/course/viewer#!/c-ud898"
+       },{
            "title": "JavaScript Design Patterns",
            "school": "Udacity",
            "dates": "2016/03",
