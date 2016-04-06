@@ -6,10 +6,10 @@
            "mobile": "09XX-666-666",
            "email": "chyren0305@gmail.com",
            "googleplus": "chyren0305",
-           "github": "chyren666",
-           "blog": "chyren666",
+           "github": "chyren0305",
+           "blog": "chyren0305",
            "location": "Taiwan",
-           "url":{"GitHub":"https://www.github.com/chyren666","Blog":"http://chyren666.blogspot.tw/"}
+           "url":{"GitHub":"https://www.github.com/chyren0305","Blog":"http://chyren0305.blogspot.tw/"}
        },
        "Msg": "welcome to this website! have fun! :)!",
        "intro":"This is a sample and the Information isn't all real!",
@@ -156,19 +156,19 @@
        }, {
            "title": "Project Sample from udacity",
            "dates": "2016/01",
-           "url": "https://chyren666.github.io/portfolio/",
+           "url": "https://chyren0305.github.io/portfolio/",
            "description": "From the udacity-project.This is a portfolio demo. :D",
            "images": ["Formosa_Families_Logo_New_2.png", "portfolio.png"]
        }, {
            "title": "Udacity Frogger Game",
            "dates": "2016/01",
-           "url": "https://chyren666.github.io/udacity-game/",
+           "url": "https://chyren0305.github.io/udacity-game/",
            "description": "From the udacity-project.This is a game , only computer browser version",
            "images": ["udacity-game.png","coding0_o.jpg" ]
        },{
            "title": "Responsive Blog",
            "dates": "2016/02",
-           "url": "https://chyren666.github.io/udacity-rwd/",
+           "url": "https://chyren0305.github.io/udacity-rwd/",
            "description": "From the udacity-project.This is a my own Responsive Blog.",
            "images": ["rwd.png","sample.png" ]
        }]
